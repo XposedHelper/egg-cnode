@@ -28,7 +28,7 @@
     "stream-wormhole": "^1.0.3",
     "uuid": "^3.2.1",
     "validator": "^9.4.1",
-    "xmlbuilder": "^9.0.7"
+    "xmlbuilder": "^13.0.1"
   },
   "devDependencies": {
     "autod": "^3.0.1",
